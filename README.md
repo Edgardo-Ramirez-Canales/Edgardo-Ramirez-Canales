@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Edgardo Ramirez</h1>👋
+<h1 align="center">Hello there, I'm Edgardo Ramirez 👋</h1>
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
