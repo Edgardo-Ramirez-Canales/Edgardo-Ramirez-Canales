@@ -55,14 +55,14 @@ Welcome to my Github page! I am Edgardo and I am currently finishing my career i
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Edgardo-Ramirez-Canales&show_icons=true&locale=en&layout=compact" alt="Edgardo-Ramirez" style="display: inline-block; width: 40%;">
 </p>
 
-<p align="left"><strong><samp>「</samp></strong></p>
+<p align="left"><strong></strong></p>
     <p align="center">
       <samp>
-    <image alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Merriweather+Sans&size=30&pause=1000&color=FFFFFF&width=435&lines=Somos+s%C3%B3lo+una+raza+avanzada+en+un+planeta+menor+de+una+estrella+muy+normal.+Pero+podemos+entender+el+universo.+Eso+nos+convierte+en+algo+muy+especial.">
-               
+    <image alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=AFAFAFAF&width=435&lines=I+am+Systems+engineer.">       
       </samp><br>
     </p>
 
+	[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=AFAFAFAF&width=435&lines=I+am+Systems+engineer)](https://git.io/typing-svg)
 	
 
 	
