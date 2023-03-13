@@ -62,11 +62,6 @@ Welcome to my Github page! I am Edgardo and I am currently finishing my career i
       </samp><br>
     </p>
 
-	[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=AFAFAFAF&width=435&lines=I+am+Systems+engineer)](https://git.io/typing-svg)
-	
-
-	
-	
 	
 	
 	
