@@ -28,10 +28,7 @@ Welcome to my Github page! I am Edgardo and I am currently finishing my career i
 - Improving my CV with some education apart from university
 
 <h3 align="left">Languages and Tools:</h3> 
-<p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Edgardo-Ramirez-Canales&show_icons=true&hide_border=true" />
-
-	
+<p>	
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>	
