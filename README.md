@@ -1,4 +1,7 @@
 <h1 align="center">Hello there, I'm Edgardo Ramirez 👋</h1>
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Edgardo-Ramirez-Canales)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https:)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ramirezedgardo92@gmail.com)
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
@@ -7,9 +10,7 @@
 
 
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Edgardo-Ramirez-Canales)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https:)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ramirezedgardo92@gmail.com)
+
 
 Welcome to my Github page! I am Edgardo and I am currently finishing my career in Systems Engineering at the National Automated University of Honduras!!  
 
