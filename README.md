@@ -17,7 +17,7 @@ Welcome to my Github page! I am Edgardo and I am currently finishing my career i
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
+- Finish my career in Systems Engineering  
 - Taking online courses about Data Science and Machine Learning 
 
 #### :muscle: Things I am challenging myself with:
