@@ -58,6 +58,7 @@ Welcome to my Github page! I am Edgardo and I am currently finishing my career i
     </p>
 	
 <h2 align="center">📊 GitHub Stats:</h2>
+
 ![](https://github-readme-stats.vercel.app/api?username=Edgardo-Ramirez-Canales&theme=dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117&title_color=0088ff)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Edgardo-Ramirez-Canales&theme=dark&hide_border=true&stroke=0088ff)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Edgardo-Ramirez-Canales&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=0d1117&title_color=0088ff&langs_count=6&exclude_repo=Edgardo-Ramirez-Canales.github.io)
