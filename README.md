@@ -1,4 +1,4 @@
-### Hi, I'm Edgardo R.C 👋
+<h1 align="center">Hello there, I'm Edgardo Ramirez</h1>👋
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
@@ -39,7 +39,7 @@ Welcome to my Github page! I am Edgardo and I am currently finishing my career i
 </p>
 
 
-<h1 align="center">Hello there, I'm Erick Marín</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=konkkeror&label=Profile%20views&color=0e75b6&style=flat" alt="konkkeror" /> </p>
 
