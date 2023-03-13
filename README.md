@@ -3,7 +3,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Edgardo-Ramirez-Canales&label=Profile%20views&color=0e75b6&style=flat" alt="Edgardo" /></p>
 
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Edgardo-Ramirez-Canales)
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=whitealign="center")](https://github.com/Edgardo-Ramirez-Canales)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https:)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ramirezedgardo92@gmail.com)	
 
