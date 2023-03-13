@@ -57,9 +57,8 @@ Welcome to my Github page! I am Edgardo and I am currently finishing my career i
 
 <p align="left"><strong><samp>「</samp></strong></p>
     <p align="center">
-      <samp><br>
-          
-          <image alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Merriweather+Sans&size=30&pause=1000&color=FFFFFF&width=435&lines=Somos+s%C3%B3lo+una+raza+avanzada+en+un+planeta+menor+de+una+estrella+muy+normal.+Pero+podemos+entender+el+universo.+Eso+nos+convierte+en+algo+muy+especial.">
+      <samp>
+    <image alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Merriweather+Sans&size=30&pause=1000&color=FFFFFF&width=435&lines=Somos+s%C3%B3lo+una+raza+avanzada+en+un+planeta+menor+de+una+estrella+muy+normal.+Pero+podemos+entender+el+universo.+Eso+nos+convierte+en+algo+muy+especial.">
                
       </samp><br>
     </p>
