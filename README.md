@@ -61,6 +61,13 @@ Welcome to my Github page! I am Edgardo and I am currently finishing my career i
     <image alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=AFAFAFAF&width=435&lines=I+am+Systems+engineer.">       
       </samp><br>
     </p>
+	
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Edgardo-Ramirez-Canales&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Edgardo-Ramirez-Canales&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Edgardo-Ramirez-Canales&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->	
 
 	
 	
