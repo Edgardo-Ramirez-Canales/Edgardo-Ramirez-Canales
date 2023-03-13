@@ -27,7 +27,8 @@ Welcome to my Github page! I am Edgardo and I am currently finishing my career i
 - Coding at least 4 hours a day
 - Improving my CV with some education apart from university
 
-<h3 align="left">Languages and Tools:</h3> 
+
+<h2 align="center">Languages and Tools:</h2>
 <p>	
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
