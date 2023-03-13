@@ -31,7 +31,7 @@ Welcome to my Github page! I am Edgardo and I am currently finishing my career i
 - Coding at least 4 hours a day
 - Improving my CV with some education apart from university
 
-#### :computer: Programming languages and tools: 
+<h3 align="left">Languages and Tools:</h3> 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Edgardo-Ramirez-Canales&show_icons=true&hide_border=true" />
 
@@ -54,28 +54,8 @@ Welcome to my Github page! I am Edgardo and I am currently finishing my career i
 </p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Edgardo-Ramirez-Canales&show_icons=true&locale=en&layout=compact" alt="Edgardo-Ramirez-Canales" /></p>
 
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-   
-
-
-
-
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  
-  </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-  
-   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-   
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
- 
-  </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=konkkeror&show_icons=true&locale=en&layout=compact" alt="konkkeror" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=konkkeror&" alt="konkkeror" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Edgardo-Ramirez-Canales&" alt="Edgardo-Ramirez-Canales" /></p>
 
 
