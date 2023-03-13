@@ -1,5 +1,6 @@
 <h1 align="center">Hello there, I'm Edgardo Ramirez 👋</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Edgardo-Ramirez-Canales&label=Profile%20views&color=0e75b6&style=flat" alt="konkkeror" /> </p>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Edgardo-Ramirez-Canales)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https:)
@@ -44,7 +45,7 @@ Welcome to my Github page! I am Edgardo and I am currently finishing my career i
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=konkkeror&label=Profile%20views&color=0e75b6&style=flat" alt="konkkeror" /> </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
