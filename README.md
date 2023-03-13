@@ -2,15 +2,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Edgardo-Ramirez-Canales&label=Profile%20views&color=0e75b6&style=flat" alt="Edgardo" /></p>
 
-
-
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=whitea)](https://github.com/Edgardo-Ramirez-Canales)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https:)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ramirezedgardo92@gmail.com)	
 
 
-
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+![DINO](https://user-images.githubusercontent.com/60473889/224604459-321dfbdc-62ff-4797-85e5-03ec5b3a581c.gif)
 
 
 
