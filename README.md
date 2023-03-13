@@ -1,5 +1,6 @@
 <h1 align="center">Hello there, I'm Edgardo Ramirez 👋</h1>
 
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Edgardo-Ramirez-Canales&label=Profile%20views&color=0e75b6&style=flat" alt="Edgardo" /></p>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=whitea)](https://github.com/Edgardo-Ramirez-Canales)
@@ -54,6 +55,22 @@ Welcome to my Github page! I am Edgardo and I am currently finishing my career i
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Edgardo-Ramirez-Canales&show_icons=true&locale=en&layout=compact" alt="Edgardo-Ramirez" style="display: inline-block; width: 40%;">
 </p>
 
+<p align="left"><strong><samp>「</samp></strong></p>
+    <p align="center">
+      <samp><br>
+          
+          <image alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Merriweather+Sans&size=30&pause=1000&color=FFFFFF&width=435&lines=Somos+s%C3%B3lo+una+raza+avanzada+en+un+planeta+menor+de+una+estrella+muy+normal.+Pero+podemos+entender+el+universo.+Eso+nos+convierte+en+algo+muy+especial.">
+               
+      </samp><br>
+    </p>
 
+	
 
+	
+	
+	
+	
+	
+	
+	
 
