@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ramirezedgardo92@gmail.com)	
 
 
-![DINO](https://user-images.githubusercontent.com/60473889/224604459-321dfbdc-62ff-4797-85e5-03ec5b3a581c.gif)
+
 
 
 
@@ -66,7 +66,7 @@ Welcome to my Github page! I am Edgardo and I am currently finishing my career i
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->	
 
-	
+![DINO](https://user-images.githubusercontent.com/60473889/224604459-321dfbdc-62ff-4797-85e5-03ec5b3a581c.gif)	
 	
 	
 	
