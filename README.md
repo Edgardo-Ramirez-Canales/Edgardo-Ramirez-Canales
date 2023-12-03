@@ -8,15 +8,9 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ramirezedgardo92@gmail.com)	
 
 ### My name is Edgardo, welcome to my GitHub profile. 
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
-
 - ⚡ Passionate about Music and Technology
 - 🧠 Software Development
-
-
-
-
 
 <h2 align="center">Languages and Tools:</h2>
 <p>	
