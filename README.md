@@ -11,16 +11,11 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
+- ⚡ Passionate about Music and Technology
+- 🧠 Software Development
 
 
-#### 🌱 Things I am currently working on: 
-- Finish my career in Systems Engineering  
-- Taking online courses about Data Science and Machine Learning 
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Improving my CV with some education apart from university
 
 
 <h2 align="center">Languages and Tools:</h2>
