@@ -1,5 +1,5 @@
-<h1 align="center">Hello there, I'm Edgardo Ramirez 👋</h1>
 
+## Hello, Devs!!, I'm Edgardo Ramirez 👋
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Edgardo-Ramirez-Canales&label=Profile%20views&color=0e75b6&style=flat" alt="Edgardo" /></p>
 
