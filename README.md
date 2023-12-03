@@ -15,7 +15,7 @@
 
 Welcome to my Github page! I am Edgardo and I am currently finishing my career in Systems Engineering at the National Automated University of Honduras!!  
 
-src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 
 
