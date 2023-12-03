@@ -15,7 +15,8 @@
 
 Welcome to my Github page! I am Edgardo and I am currently finishing my career in Systems Engineering at the National Automated University of Honduras!!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="40%" height="40%" />
+src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+
 
 
 #### 🌱 Things I am currently working on: 
