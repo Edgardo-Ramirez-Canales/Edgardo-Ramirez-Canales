@@ -7,13 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https:)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ramirezedgardo92@gmail.com)	
 
-
-
-
-
-
-
-Welcome to my Github page! I am Edgardo and I am currently finishing my career in Systems Engineering at the National Automated University of Honduras!!  
+###Welcome to my Github page! I am Edgardo and I am currently finishing my career in Systems Engineering at the National Automated University of Honduras!!  
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
