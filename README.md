@@ -76,8 +76,4 @@ Aquí construyo soluciones enfocadas en:
 
 ## BUILT BY EDR Labs
 
-
-
-`Develop • Innovate • Automate`
-
 </div>
