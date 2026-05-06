@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://i.imgur.com/YOUR_BANNER.png](https://res.cloudinary.com/dznevwssp/image/upload/v1778047793/BannerEDR_wzulcy.png)" width="100%" />
+<img src="https://res.cloudinary.com/dznevwssp/image/upload/v1778047793/BannerEDR_wzulcy.png" width="100%" />
 
 # Built by EDR
 
