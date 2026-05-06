@@ -6,7 +6,7 @@
 
 # <span style="color:#00AEEF">Edgardo Adalid</span> Ramírez
 
-### EDR | Full Stack Dev | IA & Automatización
+### EDR | Full Stack Dev | IA & Automatización |
 
 <p>
 Construyendo soluciones modernas con código limpio, arquitectura sólida e inteligencia artificial.
@@ -74,9 +74,9 @@ Aquí construyo soluciones enfocadas en:
 
 <div align="center">
 
-## EDR Labs
+## BUILT BY EDR Labs
 
-### Engineering Digital Revolution
+
 
 `Develop • Innovate • Automate`
 
