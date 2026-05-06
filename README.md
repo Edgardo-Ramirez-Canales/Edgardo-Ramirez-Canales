@@ -6,7 +6,7 @@
 
 # <span style="color:#00AEEF">Edgardo Adalid</span> Ramírez
 
-### Ingeniero en Sistemas · Full Stack Developer · IA & Automatización
+### EDR | Full Stack Dev | IA & Automatización
 
 <p>
 Construyendo soluciones modernas con código limpio, arquitectura sólida e inteligencia artificial.
@@ -30,10 +30,9 @@ Construyendo soluciones modernas con código limpio, arquitectura sólida e inte
 </div>
 
 ---
+ 
 
-## 🚀 Built by EDR
-
-**EDR Labs** es mi espacio de ingeniería, desarrollo e innovación.  
+**🚀 EDR Labs** es mi espacio de aprendizaje, desarrollo e innovación.  
 Aquí construyo soluciones enfocadas en:
 
 - Arquitectura de sistemas
