@@ -66,7 +66,7 @@ Aquí construyo soluciones enfocadas en:
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Edgardo-Ramirez-Canales&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0088ff&icon_color=0088ff" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Edgardo-Ramirez-Canales&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0088ff&fire=0088ff&currStreakLabel=0088ff" />
+
 
 </div>
 
